@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://jayaramanbio.github.io/hospital/static/css/main.6937ff21.css",
+    "main.js": "https://jayaramanbio.github.io/hospital/static/js/main.183f91d6.js",
+    "static/media/Doctors-bro.png": "https://jayaramanbio.github.io/hospital/static/media/Doctors-bro.ead872f9b67b0ffa7de0.png",
+    "static/media/about.jpg": "https://jayaramanbio.github.io/hospital/static/media/about.bae4cca5a5b2a8d463e4.jpg",
+    "static/media/doc-6.jpg": "https://jayaramanbio.github.io/hospital/static/media/doc-6.be2a77adde3dc48f9d5b.jpg",
+    "static/media/doc-2.jpg": "https://jayaramanbio.github.io/hospital/static/media/doc-2.9045579a47c3fd89b17c.jpg",
+    "static/media/nabh-logo.png": "https://jayaramanbio.github.io/hospital/static/media/nabh-logo.f7d2e733243030e9e966.png",
+    "static/media/doc-5.jpg": "https://jayaramanbio.github.io/hospital/static/media/doc-5.22ac1d594f69ddaf3e08.jpg",
+    "static/media/doc-1.jpg": "https://jayaramanbio.github.io/hospital/static/media/doc-1.d03a0686030bcd2f05ec.jpg",
+    "static/media/doc-3.jpg": "https://jayaramanbio.github.io/hospital/static/media/doc-3.0d822ecc51b2532abe0e.jpg",
+    "static/media/doc-4.jpg": "https://jayaramanbio.github.io/hospital/static/media/doc-4.24eb182159ea2d58610f.jpg",
+    "index.html": "https://jayaramanbio.github.io/hospital/index.html",
+    "main.6937ff21.css.map": "https://jayaramanbio.github.io/hospital/static/css/main.6937ff21.css.map",
+    "main.183f91d6.js.map": "https://jayaramanbio.github.io/hospital/static/js/main.183f91d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6937ff21.css",
+    "static/js/main.183f91d6.js"
+  ]
+}
